@@ -1,4 +1,4 @@
-# 🐙 Arquivos do curso
+# 💼 Arquivos do curso
 
 ## 
 
